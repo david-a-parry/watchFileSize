@@ -1,7 +1,6 @@
 # watchFileSize
 Utility for monitoring the size of files on the commandline
 
-
 ##USAGE  
     ./watchFileSize.pl -f [FILE(s)] [options] 
     ./watchFileSize.pl -d [DIR(s)]  [options] 
@@ -50,10 +49,10 @@ Utility for monitoring the size of files on the commandline
 
 ##INFO
 
-    While running press 'q' to exit program.
+While running press 'q' to exit program.
 
 ##AUTHOR
     
-    David A. Parry
+David A. Parry
 
-    https://github.com/gantzgraf/watchFileSize
+https://github.com/gantzgraf/watchFileSize
