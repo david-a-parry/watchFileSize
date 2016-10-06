@@ -275,6 +275,7 @@ AUTHOR:
     
     David A. Parry
 
+    https://github.com/gantzgraf/watchFileSize
 
 EOT
     ;
